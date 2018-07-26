@@ -32,14 +32,16 @@
     [
         "/Users/Maylody/arisara-heroku/Demo/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/Maylody/arisara-heroku/Demo/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1532597315000,
             "changeTime": 1532597315000,
-            "contentHash": "2e85c865e9c07878c1204743f252627bb243ecf2"
+            "contentHash": "2e85c865e9c07878c1204743f252627bb243ecf2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -255,14 +257,29 @@
     [
         "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/flexipages",
         {
-            "state": "u",
             "sourcePath": "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1532597315000,
             "changeTime": 1532597315000,
-            "contentHash": "f617ce545c0b58e16678677b7736c52f27fdf9cd"
+            "contentHash": "f617ce545c0b58e16678677b7736c52f27fdf9cd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6571,
+            "modifiedTime": 1532599240000,
+            "changeTime": 1532599240000,
+            "contentHash": "abbfb672a335fc95f5d57e1f2e15bf66826b0d28"
         }
     ],
     [
@@ -274,6 +291,51 @@
             "modifiedTime": 1532596484000,
             "changeTime": 1532596484000,
             "contentHash": "65b68eb44f9df869a9d82daa6fb3d7e7df8f5506",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1532597315000,
+            "changeTime": 1532597315000,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1532597315000,
+            "changeTime": 1532597315000,
+            "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/objects/Account/Account.object-meta.xml",
+        {
+            "sourcePath": "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/objects/Account/Account.object-meta.xml",
+            "isDirectory": false,
+            "size": 3921,
+            "modifiedTime": 1532597315000,
+            "changeTime": 1532597315000,
+            "contentHash": "f9283cea22e9fbcd8c7cc5a1c1173a6c2b7b3cc7",
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -383,20 +445,6 @@
             "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/Maylody/arisara-heroku/Demo",
-        {
-            "sourcePath": "/Users/Maylody/arisara-heroku/Demo",
-            "isDirectory": true,
-            "size": 340,
-            "modifiedTime": 1532596875000,
-            "changeTime": 1532596875000,
-            "contentHash": "a3fecd455a4d1bf69c03cd3262d25629591344b5",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": true
         }
     ],
     [
@@ -970,55 +1018,18 @@
         }
     ],
     [
-        "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/objects/Account/Account.object-meta.xml",
+        "/Users/Maylody/arisara-heroku/Demo",
         {
-            "state": "u",
-            "sourcePath": "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/objects/Account/Account.object-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 3921,
-            "modifiedTime": 1532597315000,
-            "changeTime": 1532597315000,
-            "contentHash": "f9283cea22e9fbcd8c7cc5a1c1173a6c2b7b3cc7"
-        }
-    ],
-    [
-        "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 6571,
-            "modifiedTime": 1532597315000,
-            "changeTime": 1532597315000,
-            "contentHash": "5ef5342175e8cc57fce1f1a1f3afb84cc40a129b"
-        }
-    ],
-    [
-        "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/objects/Account",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/objects/Account",
+            "sourcePath": "/Users/Maylody/arisara-heroku/Demo",
             "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1532596875000,
+            "changeTime": 1532596875000,
+            "contentHash": "a3fecd455a4d1bf69c03cd3262d25629591344b5",
             "isMetadataFile": false,
-            "size": 102,
-            "modifiedTime": 1532597315000,
-            "changeTime": 1532597315000,
-            "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6"
-        }
-    ],
-    [
-        "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/objects",
-        {
             "state": "u",
-            "sourcePath": "/Users/Maylody/arisara-heroku/Demo/force-app/main/default/objects",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 102,
-            "modifiedTime": 1532597315000,
-            "changeTime": 1532597315000,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "isWorkspace": true,
+            "isArtifactRoot": false
         }
     ]
 ]

@@ -87,17 +87,6 @@
     <flexiPageRegions>
         <componentInstances>
             <componentInstanceProperties>
-                <name>defaultSearch</name>
-                <value>Restaurants</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>designHeight</name>
-                <value>small</value>
-            </componentInstanceProperties>
-            <componentName>YelpDemo</componentName>
-        </componentInstances>
-        <componentInstances>
-            <componentInstanceProperties>
                 <name>tabs</name>
                 <value>maintabs</value>
             </componentInstanceProperties>
@@ -161,6 +150,17 @@
                 <value>sidebartabs</value>
             </componentInstanceProperties>
             <componentName>flexipage:tabset</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>defaultSearch</name>
+                <value>Restaurants</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>designHeight</name>
+                <value>small</value>
+            </componentInstanceProperties>
+            <componentName>YelpDemo</componentName>
         </componentInstances>
         <mode>Replace</mode>
         <name>sidebar</name>
