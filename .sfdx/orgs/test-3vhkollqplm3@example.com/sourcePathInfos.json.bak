@@ -277,9 +277,9 @@
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 6571,
-            "modifiedTime": 1532597315000,
-            "changeTime": 1532597315000,
-            "contentHash": "5ef5342175e8cc57fce1f1a1f3afb84cc40a129b",
+            "modifiedTime": 1532599240000,
+            "changeTime": 1532599240000,
+            "contentHash": "abbfb672a335fc95f5d57e1f2e15bf66826b0d28",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
